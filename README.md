@@ -22,13 +22,13 @@ start to develop on their own.<br />
 
 ## <em>Create Your Own Client</em> Videos:
 ::Simple Client & Server
-- <a href="https://youtu.be/GPJ2EGPMMo8"><del>Series 1 | Part 1</del></a>
-- <a href="https://youtu.be/YcGC0PIq23k"><del>Series 1 | Part 2</del></a>
-- <a href="https://youtu.be/Au1_-lE2AUs"><del>Series 1 | Part 3</del></a>
+- <a href="https://youtu.be/GPJ2EGPMMo8">Series 1 | Part 1</a>
+- <a href="https://youtu.be/YcGC0PIq23k">Series 1 | Part 2</a>
+- <a href="https://youtu.be/Au1_-lE2AUs">Series 1 | Part 3</a>
 
 ::Complex Client & Server
-- <a href="https://youtu.be/E2CjFsSqd5I"><del>Series 2 | Part 1</del></a>
-- <a href="https://youtu.be/pP67XikFDGQ"><del>Series 2 | Part 2</del></a>
+- <a href="https://youtu.be/E2CjFsSqd5I">Series 2 | Part 1</a>
+- <a href="https://youtu.be/pP67XikFDGQ">Series 2 | Part 2</a>
 - <a href="#">Series 2 | Part 3</a> [Coming Soon]
 
 ------------------------------------------------------------------------
