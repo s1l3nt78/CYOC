@@ -28,7 +28,7 @@ start to develop on their own.<br />
 
 ::Complex Client
 - <a href="https://youtu.be/E2CjFsSqd5I">Series 2 | Part 1</a>
-- <a href="#">Series 2 | Part 2</a> [Coming Soon]
+- <a href="https://youtu.be/pP67XikFDGQ">Series 2 | Part 2</a>
 - <a href="#">Series 2 | Part 3</a> [Coming Soon]
 
 ------------------------------------------------------------------------
